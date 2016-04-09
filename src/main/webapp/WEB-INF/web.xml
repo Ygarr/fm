@@ -11,13 +11,13 @@
       <url-pattern>/*</url-pattern>
     </web-resource-collection>
     <auth-constraint>
-      <role-name>kldov</role-name>
+      <role-name>user</role-name>
     </auth-constraint>
   </security-constraint> -->
 
   <!-- <security-role>
-    <description>kldov</description>
-    <role-name>kldov</role-name>
+    <description>user</description>
+    <role-name>user</role-name>
   </security-role> -->
 
 <servlet>
